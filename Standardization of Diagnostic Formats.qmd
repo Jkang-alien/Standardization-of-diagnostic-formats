@@ -58,3 +58,6 @@ editor: visual
 + Specimen name (eg. LN#19b)
 
 
+## Gross specimen
+
++ nU typing
