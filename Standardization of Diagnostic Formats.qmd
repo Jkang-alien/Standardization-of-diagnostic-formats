@@ -1,0 +1,60 @@
+---
+title: "Standardization of Diagnostic Formats"
+format: revealjs
+editor: visual
+---
+
+## Problem
+
+-   Inconsistancy
+    -   Complex work environment
+    -   Unnecessary requirements
+
+## Solution
+
+-   Standardization of Diagnostic Formats
+
+## Considerations
+
+-   Simple
+-   Suitable for work processes
+-   Suitable for program development
+-   Stick to the guidelines
+
+## CAP Protocol DCIS
+
+-   SPECIMEN
+-   TUMOR
+-   MARGINS
+-   REGIONAL LYMPH NODES
+-   DISTANT METASTASIS
+-   SPECIAL STUDIES
+
+## Simple
+
+### What makes it complicated?
+
+### How to make it simple?
+
+## Synoptic Reporting
+
+::: r-fit-text
+-   Synoptic format is defined as:
+    -   Data element: followed by its answer (response), outline format without the paired Data element:Response format is NOT considered synoptic.
+    -   The data element should be represented in the report as it is listed in the case summary. The response for any data element may be modified from those listed in the case summary, including "Cannot be determined" if appropriate.
+    -   Each diagnostic parameter pair (Data element: Response) is listed on a separate line or in a tabular format to achieve visual separation. The following exceptions are allowed to be listed on one line:
+        -    Anatomic site or specimen, laterality, and procedure
+
+        -    Pathologic Stage Classification (pTNM) elements
+
+        -    Negative margins, as long as all negative margins are specifically enumerated where applicable
+    -   The synoptic portion of the report can appear in the diagnosis section of the pathology report, at the end of the report or in a separate section, but all Data element: Responses must be listed together in one location
+:::
+
+## Non-synoptic Reporting (autocomplete function)
+
++ Summary format (Diagnosis)
++ Specimen description (Gross)
++ Specimen name (eg. LN#19b)
+
+
